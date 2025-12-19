@@ -4,6 +4,7 @@
  *  Created on: 19.12.2025
  *      Author: mihai
  *      Das ist mein ersets git Projekt
+ *      Kommentar mal anders
  */
 #include <iostream>
 using namespace std;
