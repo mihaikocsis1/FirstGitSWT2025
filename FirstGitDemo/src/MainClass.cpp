@@ -4,7 +4,11 @@
  *  Created on: 19.12.2025
  *      Author: mihai
  *      Das ist mein ersets git Projekt
+<<<<<<< HEAD
  *      Kommentar mal anders
+=======
+ *      Eine Erweiterung des Kommentars
+>>>>>>> refs/remotes/origin/master
  */
 #include <iostream>
 using namespace std;
